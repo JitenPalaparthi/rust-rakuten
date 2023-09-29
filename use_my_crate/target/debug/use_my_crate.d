@@ -1,0 +1,1 @@
+/home/jiten/workspace/personal/training/rust-rakuten/use_my_crate/target/debug/use_my_crate: /home/jiten/workspace/personal/training/rust-rakuten/my_crate/src/lib.rs /home/jiten/workspace/personal/training/rust-rakuten/use_my_crate/src/main.rs
